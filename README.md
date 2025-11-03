@@ -1,5 +1,7 @@
 # OSTEP Homework (C)
 
+Book: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
 Layout:
   <chapter>/            e.g. 05_interlude_process_api/
     file.c              many .c files per chapter
